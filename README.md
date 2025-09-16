@@ -8,11 +8,10 @@ Enhancements to Canvas like dark mode, better todo list, GPA calculator, and mor
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-
+Firefox support coming soon.
 ## Inquiries
 
-To contact me, please email ksucpea@gmail.com, or you can open an issue within the "Issues" tab on GitHub.
+To contact me, please email [Email caelijah@umich.edu](mailto:caelijah@umich.edu), or you can open an issue within the "Issues" tab on GitHub.
 
 ## Table of Contents
 
@@ -67,8 +66,7 @@ To use Better Canvas, select your browser below to install the extension.
 
 [Chrome](https://chrome.google.com/webstore/detail/better-canvas/cndibmoanboadcifjkjbdpjgfedanolh)
 
-[Firefox](https://addons.mozilla.org/addon/better-canvas/)
-
+Firefox support coming soon. 
 ### How to use
 
 - Once the extension is installed, navigate to your institution's Canvas homepage.
